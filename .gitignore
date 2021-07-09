@@ -1,0 +1,12 @@
+wordpress-stubs.php
+wordpress-globals.php
+out/linecount.txt
+out/linecount.json
+todos.md
+TODO.md
+
+/vendor/
+
+/node_modules/
+/Work Files/
+*\ copy.*

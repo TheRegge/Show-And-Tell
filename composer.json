@@ -1,0 +1,16 @@
+{
+  "name": "regiszaleman/show-and-tell",
+  "description": "A 'Show and Tell' plugin for WordPress",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "authors": [{
+    "name": "Regis Zaleman",
+    "email": "regis.zaleman@gmail.com"
+  }],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "showAndTell\\": "."
+    }
+  }
+}

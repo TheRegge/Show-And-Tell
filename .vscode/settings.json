@@ -1,0 +1,12 @@
+{
+  "conventionalCommits.scopes": [
+    "model",
+    "Global",
+    "frontend",
+    "formsAPI",
+    "formEditor",
+    "Text Strings",
+    "VS Code",
+    "WP/API"
+  ]
+}
