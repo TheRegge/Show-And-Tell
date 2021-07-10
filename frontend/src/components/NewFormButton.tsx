@@ -27,7 +27,7 @@ const NewFormButton: React.FC = () => {
     dispatch(SET_EDITOR_DIRTY())
     dispatch(OPEN_FORM_EDITOR())
   }
-  const icon = <Plus size={24} />
+  const icon = <Plus size={18} />
 
   return (
     <Button
@@ -35,7 +35,8 @@ const NewFormButton: React.FC = () => {
       text={window.sat_textstrings['New Form']}
       ariaLabel={window.sat_textstrings['New Form']}
       icon={icon}
-      classes="text-2xl"
+      classes="text-xl"
+      variant="primary"
     />
   )
 }
