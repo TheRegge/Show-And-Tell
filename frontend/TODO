@@ -46,8 +46,9 @@ ROAD TO MVP:
           ☐ paragraph
           ☐ spacer
           ☐ separator
-
           ☐ image
+          ☐ video
+          ☐ sound
 
     form settings:
       ✔ draft (switch)
