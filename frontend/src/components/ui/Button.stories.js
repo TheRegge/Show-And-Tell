@@ -1,4 +1,3 @@
-import React from 'react'
 import Button from './Button'
 import { Checkbox, all as allIcons } from './iconsvg'
 
@@ -19,7 +18,7 @@ const Template = (args) => <Button {...args} />
 const Default = Template.bind({})
 Default.args = {
   text: 'Default Button',
-  variant: 'success',
+  variant: 'neutral',
 }
 
 const WithIcon = Template.bind({})
